@@ -2,8 +2,8 @@
 
 欢迎关注我的公众号！！
 
-<div><img src='picture/qrcode_for_gh_8742820aee98_344.jpg' style='width:120px;float:left'/>
-  <img src='picture/161613799107_.pic_hd.jpg' style='width:120px;float:left'/></div>
+<div><img src='picture/qrcode_for_gh_8742820aee98_344.jpg' style='max-width:120px;float:left'/>
+  <img src='picture/161613799107_.pic_hd.jpg' style='max-width:120px;float:left'/></div>
 
 
 
