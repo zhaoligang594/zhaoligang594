@@ -25,7 +25,8 @@
 1. [刷题总结](/https://github.com/zhaoligang594/leetcode-test)
 2. [日志中间件](https://github.com/zhaoligang594/logging-web)
 
-
+- 🔭 I’m currently working on BUPT as a student.
+- 🌱 I’m currently learning the java's technology!
 
 <!--
 **zhaoligang594/zhaoligang594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
