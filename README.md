@@ -26,7 +26,9 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
 2. [日志中间件](https://github.com/zhaoligang594/logging-web)
 3. [Easy Excel](https://github.com/zhaoligang594/easy-excel)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoligang594&show_icons=true&theme=radical)
+### Other news about me
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoligang594&show_icons=true&theme=radical&bg_color=#ccffcc)
 
 <!--
 - 🔭 I’m currently working on BUPT as a student.
