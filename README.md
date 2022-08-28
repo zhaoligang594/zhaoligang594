@@ -28,6 +28,25 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
 
 ### Other news about me
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=zhaoligang594&show_icons=true&theme=buefy" width="100px;" alt="thanhtoan1196"/>
+      </a>
+      <br />
+      <a href="#">微信公众号</a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoligang59" width="100px;" alt="memset0"/>
+      </a>
+      <br />
+      <a href="#">微信</a>
+    </td>
+  </tr>
+</table>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoligang594&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoligang594)](https://github.com/anuraghazra/github-readme-stats)
