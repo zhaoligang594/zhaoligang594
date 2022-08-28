@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey, guys, welcome !!! 👋
 
-欢迎关注我的公众号！！
+Ligang Zhao is currently working in meituan tech company (Location: Beijing, China) as a Java Software Engineer. In 2022.6, he got his master's degree from Beijing University of Post and Telecommunications (BUPT), Beijing, China. During the period of master study, his research interests include machine learning, optical network, and resource assignment. Also, he is good coder and solved many difficult problems in his study lab.
 
 <table>
   <tr>
@@ -24,11 +24,13 @@
 
 1. [刷题总结](/https://github.com/zhaoligang594/leetcode-test)
 2. [日志中间件](https://github.com/zhaoligang594/logging-web)
+3. [Easy Excel](https://github.com/zhaoligang594/easy-excel)
 
-- 🔭 I’m currently working on BUPT as a student.
-- 🌱 I’m currently learning the java's technology!
+
 
 <!--
+- 🔭 I’m currently working on BUPT as a student.
+- 🌱 I’m currently learning the java's technology!
 **zhaoligang594/zhaoligang594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
