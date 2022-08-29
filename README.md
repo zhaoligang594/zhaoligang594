@@ -26,33 +26,20 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
 2. [日志中间件](https://github.com/zhaoligang594/logging-web)
 3. [Easy Excel](https://github.com/zhaoligang594/easy-excel)
 
-### My projects
-
-<table border='0px'>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/zhaoligang594/logging-web">
+### My projects 🌱 
+<a href="https://github.com/zhaoligang594/logging-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=logging-web" />
 </a>
-      <br />
-      <a href="#">A Log tool</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhaoligang594/easy-excel">
+<a href="https://github.com/zhaoligang594/easy-excel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=easy-excel" />
 </a>
-      <br />
-      <a href="#">A Excel Tool</a>
-    </td>
-  </tr>
-</table>
 
 
 <a href="https://github.com/zhaoligang594/spring-cloud-note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=spring-cloud-note" />
 </a>
 
-### Other news about me
+### Other news 🤔
 
 ![Ligang Zhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoligang594&show_icons=true&theme=buefy)
 
