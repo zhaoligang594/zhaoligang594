@@ -6,14 +6,14 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
   <tr>
     <td align="center">
       <a href="#">
-        <img src="picture/qrcode_for_gh_8742820aee98_344.jpg" width="500px;" alt="thanhtoan1196"/>
+        <img src="picture/qrcode_for_gh_8742820aee98_344.jpg" width="100px;" alt="thanhtoan1196"/>
       </a>
       <br />
       <a href="#">微信公众号</a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="picture/161613799107_.pic_hd.jpg" width="500px;" alt="memset0"/>
+        <img src="picture/161613799107_.pic_hd.jpg" width="100px;" alt="memset0"/>
       </a>
       <br />
       <a href="#">微信</a>
@@ -32,14 +32,14 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=zhaoligang594&show_icons=true&theme=buefy" width="100px;" alt="thanhtoan1196"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=zhaoligang594&show_icons=true&theme=buefy" width="400px;" alt="thanhtoan1196"/>
       </a>
       <br />
       <a href="#">微信公众号</a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoligang59" width="100px;" alt="memset0"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoligang59" width="400px;" alt="memset0"/>
       </a>
       <br />
       <a href="#">微信</a>
