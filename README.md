@@ -34,8 +34,9 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=easy-excel" />
 </a>
 
+### Learn notes 👯
 
-<a href="https://github.com/zhaoligang594/spring-cloud-note">
+<a href="https://zhaoligang594.github.io/spring-cloud-note/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=spring-cloud-note" />
 </a>
 
