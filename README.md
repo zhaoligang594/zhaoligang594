@@ -26,6 +26,15 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
 2. [日志中间件](https://github.com/zhaoligang594/logging-web)
 3. [Easy Excel](https://github.com/zhaoligang594/easy-excel)
 
+### My main projects
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 ### Other news about me
 
 ![Ligang Zhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoligang594&show_icons=true&theme=buefy)
