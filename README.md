@@ -28,14 +28,29 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
 
 ### My projects
 
-<a href="https://github.com/zhaoligang594/logging-web">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zhaoligang594/logging-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=logging-web" />
 </a>
-<a href="https://github.com/zhaoligang594/easy-excel">
+      <br />
+      <a href="#">A Log tool</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhaoligang594/easy-excel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=easy-excel" />
 </a>
+      <br />
+      <a href="#">A Excel Tool</a>
+    </td>
+  </tr>
+</table>
+
+
+
 <a href="https://github.com/zhaoligang594/spring-cloud-note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&spring-cloud-note" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=spring-cloud-note" />
 </a>
 
 ### Other news about me
