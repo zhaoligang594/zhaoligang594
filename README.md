@@ -43,7 +43,7 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
 
 ![Ligang Zhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoligang594&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoligang594)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoligang594)](https://github.com/zhaoligang594/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on BUPT as a student.
