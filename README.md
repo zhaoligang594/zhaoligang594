@@ -28,7 +28,7 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
 
 ### My projects
 
-<table>
+<table border='0px'>
   <tr>
     <td align="center">
       <a href="https://github.com/zhaoligang594/logging-web">
@@ -46,7 +46,6 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
     </td>
   </tr>
 </table>
-
 
 
 <a href="https://github.com/zhaoligang594/spring-cloud-note">
