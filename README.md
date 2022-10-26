@@ -27,8 +27,8 @@ Ligang Zhao is currently working in meituan tech company (Location: Beijing, Chi
 3. [Easy Excel](https://github.com/zhaoligang594/easy-excel)
 
 ### My projects 🌱 
-<a href="https://github.com/zhaoligang594/logging-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=logging-web" />
+<a href="https://github.com/zhaoligang594/easy-tools-all">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=easy-tools-all" />
 </a>
 <a href="https://github.com/zhaoligang594/easy-excel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoligang594&repo=easy-excel" />
