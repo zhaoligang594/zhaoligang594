@@ -1,6 +1,6 @@
 ### Hey, guys, welcome !!! 👋
 
-Ligang Zhao is currently working in meituan tech company (Location: Beijing, China) as a Java Software Engineer. In 2022.6, he got his master's degree from Beijing University of Post and Telecommunications (BUPT), Beijing, China. During the period of master study, his research interests include machine learning, optical network, and resource assignment. Also, he is good coder and solved many difficult problems in his study lab.
+Ligang Zhao is currently working in Alibaba tech company (Location: Hangzhou, China) as a Java Software Engineer. In 2022.6, he got his master's degree from Beijing University of Post and Telecommunications (BUPT), Beijing, China. During the period of master study, his research interests include machine learning, optical network, and resource assignment. Also, he is good coder and solved many difficult problems in his study lab.
 
 <table>
   <tr>
